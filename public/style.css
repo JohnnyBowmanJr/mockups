@@ -10,6 +10,10 @@ body {
 	color: #5B5C5C;
 }
 
+.links {
+	text-align: center;
+}
+
 .headline {	
 	font-size: 7em;
 	font-weight: bold;
